@@ -16,3 +16,6 @@ def main():
     if args.version:
         print('Version:', __version__)
         sys.exit()
+
+def hello():
+    return 'world'
