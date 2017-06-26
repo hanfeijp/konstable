@@ -1,0 +1,1 @@
+git+git://github.com/fchollet/keras.git@8d5b2ce60c21a0c18c00610dda41687b42fd5c13
