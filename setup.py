@@ -10,6 +10,7 @@ setup(
     author='Zafarali Ahmed',
     author_email='zafarali.ahmed@gmail.com',
     license='MIT',
+    packages=find_packages(exclude=['tests*']),
     classifiers=[
         'Development Status :: 3 - Alpha'
     ],
